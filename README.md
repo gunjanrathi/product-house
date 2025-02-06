@@ -8,9 +8,9 @@
 </p>
 
 <h2> Guide To Clone the project</h2>
-<p>git clone https://github.com/your-username/your-repo.git
-cd your-repo
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate</p>
+<p>git clone https://github.com/gunjanrathi/product-house.git</p>
+<p>cd product-house</p>
+<p>composer install</p>
+<p>cp .env.example .env</p>
+<p>php artisan key:generate</p>
+<p>php artisan migrate</p>
