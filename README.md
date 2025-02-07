@@ -14,3 +14,8 @@
 <p>cp .env.example .env</p>
 <p>php artisan key:generate</p>
 <p>php artisan migrate</p>
+
+<h2>Functionality</h2>
+<p>CRUD Operation Product</p>
+<p>Unit Test Cases</p>
+<p>Include with Migrations</p>
